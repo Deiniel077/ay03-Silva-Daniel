@@ -1,0 +1,24 @@
+#cabecera{background: red;
+}
+
+.destacado{
+    font-size: 50px;
+}
+
+nav ol{
+font-size: 30px;
+background-color: royalblue;
+color: burlywood;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-shadow: 0px 7px 7px rgb(rgb(121, 21, 21), rgb(52, 70, 52), rgb(0, 0, 75));
+}
+
+.parrafo{
+    font-family: cursive;
+    font-size: 20px;
+    color: rosybrown;
+}
+
+.div{
+    background: salmon;
+}
